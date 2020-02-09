@@ -1,0 +1,71 @@
+,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Region,Population
+0,Hubei,Mainland China,2/7/2020 14:03,22112,618,867,Hubei,75200000
+1,Guangdong,Mainland China,2/7/2020 10:13,1034,1,88,Guangdong,111690000
+2,Zhejiang,Mainland China,2/7/2020 11:33,1006,0,123,Zhejiang,56570000
+3,Henan,Mainland China,2/7/2020 14:03,914,3,86,Henan,95590000
+4,Hunan,Mainland China,2/7/2020 11:33,772,0,112,Hunan,68600000
+5,Anhui,Mainland China,2/7/2020 5:13,665,0,47,Anhui,62550000
+6,Jiangxi,Mainland China,2/7/2020 1:23,661,0,45,Jiangxi,46220000
+7,Chongqing,Mainland China,2/7/2020 12:03,415,2,31,Chongqing,30750000
+8,Jiangsu,Mainland China,2/7/2020 14:03,408,0,43,Jiangsu,80290000
+9,Shandong,Mainland China,2/7/2020 11:33,386,0,37,Shandong,100060000
+10,Sichuan,Mainland China,2/7/2020 8:23,344,1,42,Sichuan,83020000
+11,Beijing,Mainland China,2/7/2020 3:23,297,1,33,Beijing,21710000
+12,Heilongjiang,Mainland China,2/7/2020 7:43,277,3,12,Heilongjiang,37890000
+13,Shanghai,Mainland China,2/7/2020 6:14,277,1,30,Shanghai,24180000
+14,Fujian,Mainland China,2/7/2020 13:23,224,0,20,Fujian,39110000
+15,Shaanxi,Mainland China,2/7/2020 8:23,184,0,17,Shaanxi,38350000
+16,Guangxi,Mainland China,2/7/2020 0:33,172,0,17,Guangxi,48850000
+17,Hebei,Mainland China,2/7/2020 12:03,172,1,22,Hebei,59020000
+18,Yunnan,Mainland China,2/7/2020 23:23,138,0,12,Yunnan,48010000
+19,Hainan,Mainland China,2/7/2020 12:33,117,2,10,Hainan,9260000
+20,Liaoning,Mainland China,2/7/2020 15:33,99,0,7,Liaoning,43690000
+21,Shanxi,Mainland China,2/7/2020 12:33,96,0,15,Shanxi,37020000
+22,Guizhou,Mainland China,2/7/2020 11:13,81,1,6,Guizhou,35800000
+23,Tianjin,Mainland China,2/7/2020 5:43,81,1,2,Tianjin,15570000
+24,Gansu,Mainland China,2/7/2020 2:33,67,0,9,Gansu,26260000
+25,Jilin,Mainland China,2/7/2020 0:43,65,1,4,Jilin,27170000
+28,Ningxia,Mainland China,2/7/2020 11:13,43,0,5,Ningxia,6820000
+29,Xinjiang,Mainland China,2/7/2020 1:43,39,0,0,Xinjiang,24450000
+30,,Singapore,2/7/2020 3:03,30,0,0,Singapore,5638676
+31,Hong Kong,Hong Kong,2/7/2020 11:53,25,1,0,Hong Kong,7252900
+32,,Japan,2/7/2020 4:13,25,0,1,Japan,126529100
+33,,Thailand,2/4/2020 15:33,25,0,5,Thailand,69428524
+34,,South Korea,2/7/2020 3:03,24,0,1,South Korea,51635256
+35,Qinghai,Mainland China,2/6/2020 2:13,18,0,3,Qinghai,5980000
+36,Taiwan,Taiwan,2/6/2020 15:03,16,0,1,Taiwan,23603121
+37,,Germany,2/7/2020 16:33,13,0,0,Germany,82927922
+38,,Malaysia,2/7/2020 9:13,12,0,1,Malaysia,31528585
+39,Macau,Macau,2/6/2020 14:23,10,0,1,Macau,0
+40,,Vietnam,2/6/2020 1:13,10,0,1,Vietnam,95540395
+41,,France,2/1/2020 1:52,6,0,0,France,66987244
+42,Queensland,Australia,2/7/2020 1:03,5,0,0,Queensland,0
+43,,United Arab Emirates,2/2/2020 5:43,5,0,0,United Arab Emirates,9630959
+44,New South Wales,Australia,2/6/2020 3:13,4,0,2,New South Wales,0
+45,Victoria,Australia,2/1/2020 18:12,4,0,0,Victoria,0
+46,British Columbia,Canada,2/7/2020 5:43,4,0,0,British Columbia,4546290
+47,,India,2/3/2020 21:43,3,0,0,India,1352617328
+48,,Italy,2/7/2020 17:53,3,0,0,Italy,60431283
+49,,Philippines,2/7/2020 16:43,3,1,0,Philippines,106651922
+50,,UK,2/7/2020 18:33,3,0,0,UK,144478050
+51,South Australia,Australia,2/2/2020 22:33,2,0,0,South Australia,0
+52,"Toronto, ON",Canada,2/4/2020 0:13,2,0,0,"Toronto, ON",6346088
+53,,Russia,1/31/2020 16:13,2,0,0,Russia,66488991
+54,"Chicago, IL",US,2/1/2020 19:43,2,0,0,"Chicago, IL",2705994
+55,"San Benito, CA",US,2/3/2020 3:53,2,0,0,"San Benito, CA",0
+56,"Santa Clara, CA",US,2/3/2020 0:43,2,0,0,"Santa Clara, CA",0
+57,,Belgium,2/4/2020 15:43,1,0,0,Belgium,11422068
+58,,Cambodia,1/31/2020 8:15,1,0,0,Cambodia,16249798
+59,"London, ON",Canada,2/4/2020 0:03,1,0,0,"London, ON",521756
+60,,Finland,1/31/2020 8:15,1,0,0,Finland,5518050
+61,Tibet,Mainland China,2/1/2020 1:52,1,0,0,Tibet,3370000
+62,,Nepal,1/31/2020 8:15,1,0,0,Nepal,28087871
+63,,Spain,2/1/2020 23:43,1,0,0,Spain,46723749
+64,,Sri Lanka,1/31/2020 8:15,1,0,0,Sri Lanka,21670000
+65,,Sweden,2/1/2020 2:13,1,0,0,Sweden,10183175
+66,"Boston, MA",US,2/1/2020 19:43,1,0,0,"Boston, MA",694583
+67,"Los Angeles, CA",US,2/1/2020 19:53,1,0,0,"Los Angeles, CA",0
+68,"Madison, WI",US,2/5/2020 21:53,1,0,0,"Madison, WI",258054
+69,"Orange, CA",US,2/1/2020 19:53,1,0,0,"Orange, CA",0
+70,"Seattle, WA",US,2/1/2020 19:43,1,0,0,"Seattle, WA",744955
+71,"Tempe, AZ",US,2/1/2020 19:43,1,0,,"Tempe, AZ",192364
