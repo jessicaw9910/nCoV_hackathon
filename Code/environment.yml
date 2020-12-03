@@ -1,0 +1,14 @@
+name: hackathon
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.6
+  - matplotlib
+  - numpy
+  - scipy
+  - ipywidgets
+  - seaborn
+  - appmode

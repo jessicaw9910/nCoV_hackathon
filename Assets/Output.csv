@@ -1,71 +1,71 @@
-,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Region,Population
-0,Hubei,Mainland China,2/7/2020 14:03,22112,618,867.0,Hubei,
-1,Guangdong,Mainland China,2/7/2020 10:13,1034,1,88.0,Guangdong,
-2,Zhejiang,Mainland China,2/7/2020 11:33,1006,0,123.0,Zhejiang,
-3,Henan,Mainland China,2/7/2020 14:03,914,3,86.0,Henan,
-4,Hunan,Mainland China,2/7/2020 11:33,772,0,112.0,Hunan,
-5,Anhui,Mainland China,2/7/2020 5:13,665,0,47.0,Anhui,
-6,Jiangxi,Mainland China,2/7/2020 1:23,661,0,45.0,Jiangxi,
-7,Chongqing,Mainland China,2/7/2020 12:03,415,2,31.0,Chongqing,
-8,Jiangsu,Mainland China,2/7/2020 14:03,408,0,43.0,Jiangsu,
-9,Shandong,Mainland China,2/7/2020 11:33,386,0,37.0,Shandong,
-10,Sichuan,Mainland China,2/7/2020 8:23,344,1,42.0,Sichuan,
-11,Beijing,Mainland China,2/7/2020 3:23,297,1,33.0,Beijing,
-12,Heilongjiang,Mainland China,2/7/2020 7:43,277,3,12.0,Heilongjiang,
-13,Shanghai,Mainland China,2/7/2020 6:14,277,1,30.0,Shanghai,
-14,Fujian,Mainland China,2/7/2020 13:23,224,0,20.0,Fujian,
-15,Shaanxi,Mainland China,2/7/2020 8:23,184,0,17.0,Shaanxi,
-16,Guangxi,Mainland China,2/7/2020 0:33,172,0,17.0,Guangxi,
-17,Hebei,Mainland China,2/7/2020 12:03,172,1,22.0,Hebei,
-18,Yunnan,Mainland China,2/7/2020 23:23,138,0,12.0,Yunnan,
-19,Hainan,Mainland China,2/7/2020 12:33,117,2,10.0,Hainan,
-20,Liaoning,Mainland China,2/7/2020 15:33,99,0,7.0,Liaoning,
-21,Shanxi,Mainland China,2/7/2020 12:33,96,0,15.0,Shanxi,
-22,Guizhou,Mainland China,2/7/2020 11:13,81,1,6.0,Guizhou,
-23,Tianjin,Mainland China,2/7/2020 5:43,81,1,2.0,Tianjin,
-24,Gansu,Mainland China,2/7/2020 2:33,67,0,9.0,Gansu,
-25,Jilin,Mainland China,2/7/2020 0:43,65,1,4.0,Jilin,
-28,Ningxia,Mainland China,2/7/2020 11:13,43,0,5.0,Ningxia,
-29,Xinjiang,Mainland China,2/7/2020 1:43,39,0,0.0,Xinjiang,
-30,,Singapore,2/7/2020 3:03,30,0,0.0,Singapore,5638676.0
-31,Hong Kong,Hong Kong,2/7/2020 11:53,25,1,0.0,Hong Kong,
-32,,Japan,2/7/2020 4:13,25,0,1.0,Japan,126529100.0
-33,,Thailand,2/4/2020 15:33,25,0,5.0,Thailand,69428524.0
-34,,South Korea,2/7/2020 3:03,24,0,1.0,South Korea,51635256.0
-35,Qinghai,Mainland China,2/6/2020 2:13,18,0,3.0,Qinghai,
-36,Taiwan,Taiwan,2/6/2020 15:03,16,0,1.0,Taiwan,
-37,,Germany,2/7/2020 16:33,13,0,0.0,Germany,82927922.0
-38,,Malaysia,2/7/2020 9:13,12,0,1.0,Malaysia,31528585.0
-39,Macau,Macau,2/6/2020 14:23,10,0,1.0,Macau,
-40,,Vietnam,2/6/2020 1:13,10,0,1.0,Vietnam,95540395.0
-41,,France,2/1/2020 1:52,6,0,0.0,France,66987244.0
-42,Queensland,Australia,2/7/2020 1:03,5,0,0.0,Queensland,
-43,,United Arab Emirates,2/2/2020 5:43,5,0,0.0,United Arab Emirates,9630959.0
-44,New South Wales,Australia,2/6/2020 3:13,4,0,2.0,New South Wales,
-45,Victoria,Australia,2/1/2020 18:12,4,0,0.0,Victoria,
-46,British Columbia,Canada,2/7/2020 5:43,4,0,0.0,British Columbia,
-47,,India,2/3/2020 21:43,3,0,0.0,India,1352617328.0
-48,,Italy,2/7/2020 17:53,3,0,0.0,Italy,60431283.0
-49,,Philippines,2/7/2020 16:43,3,1,0.0,Philippines,106651922.0
-50,,UK,2/7/2020 18:33,3,0,0.0,UK,144478050.0
-51,South Australia,Australia,2/2/2020 22:33,2,0,0.0,South Australia,
-52,"Toronto, ON",Canada,2/4/2020 0:13,2,0,0.0,"Toronto, ON",
-53,,Russia,1/31/2020 16:13,2,0,0.0,Russia,66488991.0
-54,"Chicago, IL",US,2/1/2020 19:43,2,0,0.0,"Chicago, IL",
-55,"San Benito, CA",US,2/3/2020 3:53,2,0,0.0,"San Benito, CA",
-56,"Santa Clara, CA",US,2/3/2020 0:43,2,0,0.0,"Santa Clara, CA",
-57,,Belgium,2/4/2020 15:43,1,0,0.0,Belgium,11422068.0
-58,,Cambodia,1/31/2020 8:15,1,0,0.0,Cambodia,16249798.0
-59,"London, ON",Canada,2/4/2020 0:03,1,0,0.0,"London, ON",
-60,,Finland,1/31/2020 8:15,1,0,0.0,Finland,5518050.0
-61,Tibet,Mainland China,2/1/2020 1:52,1,0,0.0,Tibet,
-62,,Nepal,1/31/2020 8:15,1,0,0.0,Nepal,28087871.0
-63,,Spain,2/1/2020 23:43,1,0,0.0,Spain,46723749.0
-64,,Sri Lanka,1/31/2020 8:15,1,0,0.0,Sri Lanka,21670000.0
-65,,Sweden,2/1/2020 2:13,1,0,0.0,Sweden,10183175.0
-66,"Boston, MA",US,2/1/2020 19:43,1,0,0.0,"Boston, MA",
-67,"Los Angeles, CA",US,2/1/2020 19:53,1,0,0.0,"Los Angeles, CA",
-68,"Madison, WI",US,2/5/2020 21:53,1,0,0.0,"Madison, WI",
-69,"Orange, CA",US,2/1/2020 19:53,1,0,0.0,"Orange, CA",
-70,"Seattle, WA",US,2/1/2020 19:43,1,0,0.0,"Seattle, WA",
-71,"Tempe, AZ",US,2/1/2020 19:43,1,0,,"Tempe, AZ",
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Region,Population
+Hubei,Mainland China,2/7/2020 14:03,22112,618,867,Hubei,
+Guangdong,Mainland China,2/7/2020 10:13,1034,1,88,Guangdong,
+Zhejiang,Mainland China,2/7/2020 11:33,1006,0,123,Zhejiang,
+Henan,Mainland China,2/7/2020 14:03,914,3,86,Henan,
+Hunan,Mainland China,2/7/2020 11:33,772,0,112,Hunan,
+Anhui,Mainland China,2/7/2020 5:13,665,0,47,Anhui,
+Jiangxi,Mainland China,2/7/2020 1:23,661,0,45,Jiangxi,
+Chongqing,Mainland China,2/7/2020 12:03,415,2,31,Chongqing,
+Jiangsu,Mainland China,2/7/2020 14:03,408,0,43,Jiangsu,
+Shandong,Mainland China,2/7/2020 11:33,386,0,37,Shandong,
+Sichuan,Mainland China,2/7/2020 8:23,344,1,42,Sichuan,
+Beijing,Mainland China,2/7/2020 3:23,297,1,33,Beijing,
+Heilongjiang,Mainland China,2/7/2020 7:43,277,3,12,Heilongjiang,
+Shanghai,Mainland China,2/7/2020 6:14,277,1,30,Shanghai,
+Fujian,Mainland China,2/7/2020 13:23,224,0,20,Fujian,
+Shaanxi,Mainland China,2/7/2020 8:23,184,0,17,Shaanxi,
+Guangxi,Mainland China,2/7/2020 0:33,172,0,17,Guangxi,
+Hebei,Mainland China,2/7/2020 12:03,172,1,22,Hebei,
+Yunnan,Mainland China,2/7/2020 23:23,138,0,12,Yunnan,
+Hainan,Mainland China,2/7/2020 12:33,117,2,10,Hainan,
+Liaoning,Mainland China,2/7/2020 15:33,99,0,7,Liaoning,
+Shanxi,Mainland China,2/7/2020 12:33,96,0,15,Shanxi,
+Guizhou,Mainland China,2/7/2020 11:13,81,1,6,Guizhou,
+Tianjin,Mainland China,2/7/2020 5:43,81,1,2,Tianjin,
+Gansu,Mainland China,2/7/2020 2:33,67,0,9,Gansu,
+Jilin,Mainland China,2/7/2020 0:43,65,1,4,Jilin,
+Ningxia,Mainland China,2/7/2020 11:13,43,0,5,Ningxia,
+Xinjiang,Mainland China,2/7/2020 1:43,39,0,0,Xinjiang,
+,Singapore,2/7/2020 3:03,30,0,0,Singapore,5638676
+Hong Kong,Hong Kong,2/7/2020 11:53,25,1,0,Hong Kong,
+,Japan,2/7/2020 4:13,25,0,1,Japan,126529100
+,Thailand,2/4/2020 15:33,25,0,5,Thailand,69428524
+,South Korea,2/7/2020 3:03,24,0,1,South Korea,51635256
+Qinghai,Mainland China,2/6/2020 2:13,18,0,3,Qinghai,
+Taiwan,Taiwan,2/6/2020 15:03,16,0,1,Taiwan,
+,Germany,2/7/2020 16:33,13,0,0,Germany,82927922
+,Malaysia,2/7/2020 9:13,12,0,1,Malaysia,31528585
+Macau,Macau,2/6/2020 14:23,10,0,1,Macau,
+,Vietnam,2/6/2020 1:13,10,0,1,Vietnam,95540395
+,France,2/1/2020 1:52,6,0,0,France,66987244
+Queensland,Australia,2/7/2020 1:03,5,0,0,Queensland,
+,United Arab Emirates,2/2/2020 5:43,5,0,0,United Arab Emirates,9630959
+New South Wales,Australia,2/6/2020 3:13,4,0,2,New South Wales,
+Victoria,Australia,2/1/2020 18:12,4,0,0,Victoria,
+British Columbia,Canada,2/7/2020 5:43,4,0,0,British Columbia,
+,India,2/3/2020 21:43,3,0,0,India,1352617328
+,Italy,2/7/2020 17:53,3,0,0,Italy,60431283
+,Philippines,2/7/2020 16:43,3,1,0,Philippines,106651922
+,UK,2/7/2020 18:33,3,0,0,UK,144478050
+South Australia,Australia,2/2/2020 22:33,2,0,0,South Australia,
+"Toronto, ON",Canada,2/4/2020 0:13,2,0,0,"Toronto, ON",
+,Russia,1/31/2020 16:13,2,0,0,Russia,66488991
+"Chicago, IL",US,2/1/2020 19:43,2,0,0,"Chicago, IL",
+"San Benito, CA",US,2/3/2020 3:53,2,0,0,"San Benito, CA",
+"Santa Clara, CA",US,2/3/2020 0:43,2,0,0,"Santa Clara, CA",
+,Belgium,2/4/2020 15:43,1,0,0,Belgium,11422068
+,Cambodia,1/31/2020 8:15,1,0,0,Cambodia,16249798
+"London, ON",Canada,2/4/2020 0:03,1,0,0,"London, ON",
+,Finland,1/31/2020 8:15,1,0,0,Finland,5518050
+Tibet,Mainland China,2/1/2020 1:52,1,0,0,Tibet,
+,Nepal,1/31/2020 8:15,1,0,0,Nepal,28087871
+,Spain,2/1/2020 23:43,1,0,0,Spain,46723749
+,Sri Lanka,1/31/2020 8:15,1,0,0,Sri Lanka,21670000
+,Sweden,2/1/2020 2:13,1,0,0,Sweden,10183175
+"Boston, MA",US,2/1/2020 19:43,1,0,0,"Boston, MA",
+"Los Angeles, CA",US,2/1/2020 19:53,1,0,0,"Los Angeles, CA",
+"Madison, WI",US,2/5/2020 21:53,1,0,0,"Madison, WI",
+"Orange, CA",US,2/1/2020 19:53,1,0,0,"Orange, CA",
+"Seattle, WA",US,2/1/2020 19:43,1,0,0,"Seattle, WA",
+"Tempe, AZ",US,2/1/2020 19:43,1,0,,"Tempe, AZ",
